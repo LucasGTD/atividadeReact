@@ -33,6 +33,12 @@ function App() {
       <img src='https://christianosantos.com/files/cs1/avatar-homem.jpg'></img>
       <img src='https://christianosantos.com/files/cs1/avatar-mulher.jpg'></img>
       <Paragrafo1 />
+      <p>entre em contato:</p>
+            <section>
+                <h1>Contatos</h1>
+                <p><b>Email:</b> esh166luq12@gmail.com</p>
+                <p><b>Facebook:</b> <a>lucas Gabriel</a></p>
+            </section>
       <video width="320" height="240" controls autoPlay loop>
         <source src="https://www.w3schools.com/tags/movie.mp4" />
       </video>
